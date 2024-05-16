@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "https://esmeres.ap-southeast-1.accounting.link"
+      "destination": "http://esmeres.ap-southeast-1.accounting.link/"
     }
   ]
 }
