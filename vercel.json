@@ -2,7 +2,7 @@
   "redirects": [],
   "rewrites": [
     {
-      "source": "/",
+      "source": "/(.*)",
       "destination": "https://esmeres.ap-southeast-1.accounting.link/$1"
     }
   ]
